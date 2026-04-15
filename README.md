@@ -6,7 +6,7 @@ Monitor de postura
 Integrantes do grupo:
 João Francisco da Silva Malaquias, 
 Alber Alberguini Cabral, 
-Adryel, 
+Adryel de Assunção Rocha, 
 Darvin do Nascimento Ferreira
 
 🎯 Objetivo da Solução
