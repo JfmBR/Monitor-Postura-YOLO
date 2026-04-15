@@ -7,7 +7,7 @@ Integrantes do grupo:
 João Francisco da Silva Malaquias, 
 Alber Alberguini Cabral, 
 Adryel, 
-Darwin
+Darvin do Nascimento Ferreira
 
 🎯 Objetivo da Solução
 
